@@ -21,7 +21,7 @@ Thank you for being the wonderful, amazing, absolutely fantastic person that you
 
 Happy Birthday, beautiful soul! 🎂✨
 
-With all my love and warmest wishes,
+With all my love and warmest wishes, loveeeee youuuu soooooo muchhh januuu 
 Forever Yours 💕`
 
     useEffect(() => {
