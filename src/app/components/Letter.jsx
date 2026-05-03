@@ -11,7 +11,7 @@ export default function Letter() {
     const [currentText, setCurrentText] = useState("")
     const [showCursor, setShowCursor] = useState(true)
 
-    const letterText = `My Dearest Madam Jii,
+    const letterText = `My Dearest Bbyyyyy jii,
 
 On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
 
@@ -21,7 +21,7 @@ Thank you for being the wonderful, amazing, absolutely fantastic person that you
 
 Happy Birthday, beautiful soul! 🎂✨
 
-With all my love and warmest wishes, loveeeee youuuu soooooo muchhh januuu 
+With all my love and warmest wishes,  
 Forever Yours 💕`
 
     useEffect(() => {
