@@ -28,7 +28,7 @@ export default function BirthdayApp() {
     !isBirthdayOver
       ? <Countdown key="countdown" onComplete={() => setisBirthdayOver(true)} birthdayDate={birthdayDate} />
       : <Celebration key="celebration" onNext={() => setCurrentScreen(1)} onMusicStart={() => setMusicStarted(true)} />,
-    <HappyBirthday key="happy" onNext={() => setCurrentScreen(2)} />,
+    <HappyBirthday key="happy" onNext={() => setCurrentScreen(4)} />,
     <PhotoGallery key="gallery" onNext={() => setCurrentScreen(3)} />
     <Letter key="letter" />,
   ]
